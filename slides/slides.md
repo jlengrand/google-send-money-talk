@@ -33,12 +33,12 @@ slidenumbers: true
 
 # This talk
 
+---
+
 ![left](images/ghome.png)
 ![right](images/banking-api.png)
 
 ---
-
-# This talk
 
 ![](images/fusion.jpg)
 
@@ -87,13 +87,6 @@ Overview of your bank accounts and payments
 
 ---
 
-# 2 use cases :
-
-- What was my last transaction?
-- Send money to one of my contacts!
-
----
-
 # Generics about voice assistants
 
 ---
@@ -138,7 +131,9 @@ Can also help personalize
 
 # How it looks like
 
-Draw architecture here
+---
+
+![fit](images/google-home.io.png)
 
 ---
 
@@ -185,7 +180,3 @@ Draw architecture here
 - [Twitter](https://twitter.com/jlengrand)
 
 Thanks!
-
----
-
-Need architecture
