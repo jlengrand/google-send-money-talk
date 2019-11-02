@@ -3,6 +3,7 @@
 This repository contains the slides for my talk at [JFuture](https://jfuture.dev/) about [Virtual Assistants](https://en.wikipedia.org/wiki/Virtual_assistant) and [PSD2](https://en.wikipedia.org/wiki/Payment_Services_Directive).
 
 You can find the related code repository [here](https://github.com/jlengrand/dialogflow-fun).
+This repository is hosted [here](https://github.com/jlengrand/google-send-money-talk).
 
 ## Slides
 
