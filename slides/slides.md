@@ -1,7 +1,7 @@
 footer: JFUTURE 2019
 slidenumbers: true
 
-# Hey Google, send 20\$ to Mummy!?
+# Hey Google, send 20\$ to Mum!?
 
 ### An introduction to voice assistants and banking APIs
 
@@ -21,18 +21,17 @@ slidenumbers: true
 
 # INTERNET OF STUFF
 
-![fit](images/iot.png)
+![inline](images/iot.png)
 
 ---
 
 # And using your voice!
 
-![fit](images/ghome.png)
+![inline](images/ghome.png)
 
 ---
 
 # This talk
-
 ---
 
 ![left](images/ghome.png)
@@ -64,26 +63,23 @@ The Payment Services Directive[1] (PSD, Directive 2007/64/EC, replaced by PSD2, 
 ---
 
 # 3 big APIs
+---
 
-**Account Information Services**
+## Account Information Services
 
-Overview of your bank accounts and payments
+### Overview of your bank accounts and payments
 
 ---
 
-# 3 big APIs
+## Confirmation of Available Funds
 
-**Confirmation of Available Funds**
-
-- Can I actually buy this car right now
+### Can I actually buy this car right now?
 
 ---
 
-# 3 big APIs
+## Payment Initiation Services
 
-**Payment Initiation Services**
-
-- Execute payment on your behalf (Alternative to Card Payment)
+### Execute payment on your behalf (Alternative to Paypal)
 
 ---
 
@@ -100,21 +96,11 @@ Overview of your bank accounts and payments
 
 ---
 
-## Intent
+# Entities
 
-There can be several ways to request!
-
-polite, question, assertive, short, specific, generic, ...
-
----
-
-## Entities
-
-Parts of the **intent** needed to fulfill it
-
-Size, type, options, amount, person, location, ….
-
-Can also help personalize
+- Parts of the **intent** needed to fulfill it
+- Size, type, options, amount, person, location, ….
+- Can also help personalize the experience
 
 ---
 
@@ -143,40 +129,50 @@ Can also help personalize
 
 # Voice assistants: Who's listening?
 
-[Google exec says you should warn guests about your spy speakers](https://www.zdnet.com/article/google-exec-says-you-should-warn-guests-about-your-spy-speakers/)
+![inline](images/spy.png)
+
+[Apparently someone is](https://www.zdnet.com/article/google-exec-says-you-should-warn-guests-about-your-spy-speakers/)
 
 ---
 
 # Voice assistants : security
 
-[Dolphin attack](https://mashable.com/2018/05/10/hidden-commands-digital-assistants-dolphin-attack/?europe=true)
+![inline](images/dolphin.png)
+
+[Dolphin attacks are a thing](https://mashable.com/2018/05/10/hidden-commands-digital-assistants-dolphin-attack/?europe=true)
 
 ---
 
 # PSD2 : Danger of opportunity?
 
-![](images/danger.png)
+![inline](images/danger.png)
 
 ---
 
 # Would You Like To Know More?
 
 - [PSD2](https://en.wikipedia.org/wiki/Payment_Services_Directive)
-- [ING PSD2](https://developer.ing.com/openbanking/get-started)
 - [Open Bank Project](https://www.openbankproject.com/)
 - [Dialogflow](https://cloud.google.com/dialogflow/docs/)
 
 ---
 
-# This talk
+# Would You Like To Know More?
 
-- [Project](https://github.com/jlengrand/dialogflow-fun)
-- [Slides](https://github.com/jlengrand/dialogflow-fun)
+- [Code for this project](https://github.com/jlengrand/dialogflow-fun)
+- [Slides](https://github.com/jlengrand/google-send-money-talk)
 
 ---
 
-# Questions?
+# Thanks!
 
-- [Twitter](https://twitter.com/jlengrand)
+## [@jlengrand](https://twitter.com/jlengrand)
 
-Thanks!
+
+---
+
+## Intent
+
+There can be several ways to request!
+
+polite, question, assertive, short, specific, generic, ...
