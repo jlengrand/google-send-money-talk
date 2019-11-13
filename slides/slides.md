@@ -1,9 +1,10 @@
-footer: JFUTURE 2019
+footer: ![30%](images/LOGO.png)
 slidenumbers: true
 
 # Hey Google, send 20\$ to Mum!?
 
 ### An introduction to voice assistants and banking APIs
+
 
 ---
 
