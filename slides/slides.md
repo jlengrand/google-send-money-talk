@@ -20,6 +20,12 @@ slidenumbers: true
 
 ---
 
+# Side Projects
+
+![](images/aquababy.png)
+
+---
+
 # INTERNET OF STUFF
 
 ![inline](images/iot.png)
@@ -28,27 +34,24 @@ slidenumbers: true
 
 # And using your voice!
 
-![inline](images/ghome.png)
+![inline](images/google-home.png)
 
 ---
 
 # This talk
 ---
 
-![left](images/ghome.png)
-![right](images/banking-api.png)
+![inline](images/home-api.png)
 
 ---
 
-![](images/fusion.jpg)
+![inline](images/fusion.png)
 
 ---
 
-# PSD2 : Cryptic name, simple idea
+# PSD2 : In short
 
 ---
-
-# PSD2 : Cryptic name, simple idea
 
 The Payment Services Directive[1] (PSD, Directive 2007/64/EC, replaced by PSD2, Directive (EU) 2015/2366) is an EU Directive, administered by the European Commission (Directorate General Internal Market) to regulate payment services and payment service providers throughout the European Union (EU) and European Economic Area (EEA). The Directive's purpose was to increase pan-European competition and participation in the payments industry also from non-banks, and to provide for a level playing field by harmonizing consumer protection and the rights and obligations for payment providers and users.[2]
 
@@ -100,7 +103,7 @@ The Payment Services Directive[1] (PSD, Directive 2007/64/EC, replaced by PSD2, 
 # Entities
 
 - Parts of the **intent** needed to fulfill it
-- Size, type, options, amount, person, location, ….
+- Size, type, options, amount, person, location, …
 - Can also help personalize the experience
 
 ---
@@ -111,16 +114,14 @@ The Payment Services Directive[1] (PSD, Directive 2007/64/EC, replaced by PSD2, 
 
 # Our goal
 
-- Hey Google, Send 20\$ to my mum using My Money Agent.
 - Hey Google, what was my last transaction?
+- Hey Google, Send 20\$ to my mum using My Money Agent.
 
 ---
 
 # How it looks like
 
----
-
-![fit](images/google-home.io.png)
+![inline](images/architecture.png)
 
 ---
 
@@ -140,13 +141,13 @@ The Payment Services Directive[1] (PSD, Directive 2007/64/EC, replaced by PSD2, 
 
 ![inline](images/dolphin.png)
 
-[Dolphin attacks are a thing](https://mashable.com/2018/05/10/hidden-commands-digital-assistants-dolphin-attack/?europe=true)
+[Dolphin attacks are a thing](https://www.bbc.com/news/technology-41188557)
 
 ---
 
 # PSD2 : Danger of opportunity?
 
-![inline](images/danger.png)
+![inline](images/crisis.png)
 
 ---
 
@@ -167,7 +168,9 @@ The Payment Services Directive[1] (PSD, Directive 2007/64/EC, replaced by PSD2, 
 
 # Thanks!
 
-## [@jlengrand](https://twitter.com/jlengrand)
+## ![50%](images/me.png) 
+##  [@jlengrand](https://twitter.com/jlengrand) and [Github](https://github.com/jlengrand/)
+
 
 
 ---
