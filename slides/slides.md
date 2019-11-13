@@ -121,7 +121,7 @@ The Payment Services Directive[1] (PSD, Directive 2007/64/EC, replaced by PSD2, 
 
 # How it looks like
 
-![inline](images/architecture.png)
+![inline](images/flow.png)
 
 ---
 
