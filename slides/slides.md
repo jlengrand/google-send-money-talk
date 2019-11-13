@@ -150,19 +150,20 @@ The Payment Services Directive[1] (PSD, Directive 2007/64/EC, replaced by PSD2, 
 ![inline](images/crisis.png)
 
 ---
+#  Would you like to know more?
 
-# Would You Like To Know More?
 
+![inline](images/starship-trooper.png)
+
+
+----
+
+# Would you like to know more?
+
+- [Code for this project](https://github.com/jlengrand/dialogflow-fun) and [Slides](https://github.com/jlengrand/google-send-money-talk)
 - [PSD2](https://en.wikipedia.org/wiki/Payment_Services_Directive)
 - [Open Bank Project](https://www.openbankproject.com/)
 - [Dialogflow](https://cloud.google.com/dialogflow/docs/)
-
----
-
-# Would You Like To Know More?
-
-- [Code for this project](https://github.com/jlengrand/dialogflow-fun)
-- [Slides](https://github.com/jlengrand/google-send-money-talk)
 
 ---
 
@@ -171,12 +172,3 @@ The Payment Services Directive[1] (PSD, Directive 2007/64/EC, replaced by PSD2, 
 ## ![50%](images/me.png) 
 ##  [@jlengrand](https://twitter.com/jlengrand) and [Github](https://github.com/jlengrand/)
 
-
-
----
-
-## Intent
-
-There can be several ways to request!
-
-polite, question, assertive, short, specific, generic, ...
