@@ -8,12 +8,6 @@ slidenumbers: true
 
 ---
 
-# December 2018
-
-![](images/house.png)
-
----
-
 # Side Projects
 
 ![](images/aquaponics.png)
@@ -23,6 +17,13 @@ slidenumbers: true
 # Side Projects
 
 ![](images/aquababy.png)
+
+--- 
+
+# December 2018
+
+![](images/house.png)
+
 
 ---
 
@@ -129,6 +130,12 @@ The Payment Services Directive[1] (PSD, Directive 2007/64/EC, replaced by PSD2, 
 
 ---
 
+# PSD2 : Danger of opportunity?
+
+![inline](images/crisis.png)
+
+--- 
+
 # Voice assistants: Who's listening?
 
 ![inline](images/spy.png)
@@ -143,11 +150,6 @@ The Payment Services Directive[1] (PSD, Directive 2007/64/EC, replaced by PSD2, 
 
 [Dolphin attacks are a thing](https://www.bbc.com/news/technology-41188557)
 
----
-
-# PSD2 : Danger of opportunity?
-
-![inline](images/crisis.png)
 
 ---
 #  Would you like to know more?
@@ -172,3 +174,31 @@ The Payment Services Directive[1] (PSD, Directive 2007/64/EC, replaced by PSD2, 
 ## ![50%](images/me.png) 
 ##  [@jlengrand](https://twitter.com/jlengrand) and [Github](https://github.com/jlengrand/)
 
+---
+
+# If you see this, something really wrong happened
+
+---
+
+# Fetching the last transaction
+
+
+---
+
+![inline](videos/last.transaction.mp4)
+
+---
+
+# Sending monies to Mum
+
+---
+
+![inline](videos/send.money.mp4)
+
+---
+
+# Integrations and Goodies
+
+---
+
+![inline](videos/integrations.mp4)

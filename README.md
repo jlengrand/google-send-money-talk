@@ -9,6 +9,8 @@ This repository is hosted [here](https://github.com/jlengrand/google-send-money-
 
 The slides are created using [DeckSet](https://www.deckset.com/), but there should be an uptodate pdf version available here as well :). Not affiliated in any way, I just liked the app.
 
+_Please note that I'm using videos in the slides in case my live demo goes wrong, so this repository is quite large :). The deckset version of the slides does embed the videos, but the pdf version will only host screenshots._
+
 ## Author
 
 [Julien Lengrand-Lambert](https://github.com/jlengrand) - 2019
